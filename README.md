@@ -1,9 +1,8 @@
 # Gyani-Baba - Your Gateway to Wisdom, One Search at a Time
 
-![Gyani-Baba]![Screenshot 2024-05-27 221342](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/05250815-f656-4b10-aeea-3e75bd5ab13f)
-![Gyani-Baba]![Screenshot 2024-05-27 221356](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/83851503-65e1-4ae0-941b-eb20aabcbbc5)
-
-![Gyani-Baba]![Screenshot 2024-05-27 221051](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/88d48021-f520-4996-b12c-6d6111aa652d)
+![Screenshot 2024-05-27 221342](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/05250815-f656-4b10-aeea-3e75bd5ab13f)
+![Screenshot 2024-05-27 221356](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/83851503-65e1-4ae0-941b-eb20aabcbbc5)
+![Screenshot 2024-05-27 221051](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/88d48021-f520-4996-b12c-6d6111aa652d)
 
 
 
