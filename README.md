@@ -3,9 +3,7 @@
 ![Gyani-Baba](https://i.ibb.co/yQdYhtq/image.png)
 
 ## Introduction
-Welcome to **Gyani-Baba**, a code repository for our video tutorial series. In this tutorial, we will create a Google Clone app using React and the Google Search API powered by [RapidAPI](https://rapidapi.com).
-
-By the end of this tutorial, you will become proficient in working with APIs and building modern web applications.
+Welcome to **Gyani-Baba**, a code repository for our video tutorial series. In this tutorial, we will create a Google Clone app using React and the Google Search API powered by
 
 ## Setup
 To get started, follow these steps:
@@ -47,4 +45,4 @@ Happy coding! If you have any questions, feel free to open an issue or contact t
 
 ---
 
-*This README was generated with ❤️ by Dhruv Tyagi([https://github.com/your-username](https://github.com/DhruvTyagi18).*
+*This README was generated with ❤️ by Dhruv Tyagi(https://github.com/DhruvTyagi18).*
