@@ -1,6 +1,7 @@
 # Gyani-Baba - Your Gateway to Wisdom, One Search at a Time
 
-![Gyani-Baba](https://i.ibb.co/yQdYhtq/image.png)
+![Gyani-Baba]![Screenshot 2024-05-27 221356](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/6ffb4587-adeb-45e1-9fbd-5609217e42fb)
+
 
 ## Introduction
 Welcome to **Gyani-Baba**, a code repository for our video tutorial series. In this tutorial, we will create a Google Clone app using React and the Google Search API powered by
