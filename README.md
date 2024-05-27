@@ -1,6 +1,7 @@
 # Gyani-Baba - Your Gateway to Wisdom, One Search at a Time
 
-![Gyani-Baba]![Screenshot 2024-05-27 221356](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/6ffb4587-adeb-45e1-9fbd-5609217e42fb)
+![Gyani-Baba]![Screenshot![Screenshot 2024-05-27 221342](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/6807ef54-ddae-4006-b8da-8b02b1e8f36f)
+ 2024-05-27 221356](https://github.com/DhruvTyagi18/Gyani-Baba/assets/92265404/6ffb4587-adeb-45e1-9fbd-5609217e42fb)
 
 
 ## Introduction
